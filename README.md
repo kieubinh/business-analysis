@@ -54,11 +54,11 @@ By: Microsoft and Christine Matheney, Aug 2022
 Learn how to manage data in Microsoft 365 to take on new projects, gather insights, and improve your performance at work.
 
 - [LinkedIn Learning Path](https://www.linkedin.com/learning/paths/develop-your-tableau-skills?u=0) - Develop Your Tableau Skills (5 courses - 16h18m)
-  1. [ ] Using Tableau to Discover Powerful Business Insights (1h58m) [Click Link](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-15616295?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
-  2. [ ] Tableau for Data Scientists5h (55m) [Click Link](https://www.linkedin.com/learning/tableau-for-data-scientists?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
-  3. [ ] Cleaning, Transforming and Prepping Your Data With Tableau Prep (2h28m) [Click Link](https://www.linkedin.com/learning/cleaning-transforming-and-prepping-your-data-with-tableau-prep?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
-  4. [ ] Creating Interactive Tableau Dashboards (3h28m) [Click Link](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
-  5. [ ] Tableau and R for Analytics Projects (2h27m) [Click Link](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
+  1. [ ] Using Tableau to Discover Powerful Business Insights (1h58m) [Link](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-15616295?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
+  2. [ ] Tableau for Data Scientists5h (55m) [Link](https://www.linkedin.com/learning/tableau-for-data-scientists?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
+  3. [ ] Cleaning, Transforming and Prepping Your Data With Tableau Prep (2h28m) [Link](https://www.linkedin.com/learning/cleaning-transforming-and-prepping-your-data-with-tableau-prep?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
+  4. [ ] Creating Interactive Tableau Dashboards (3h28m) [Link](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
+  5. [ ] Tableau and R for Analytics Projects (2h27m) [Link](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a3aa932498eaa2ec62c8fd3&u=0)
 
 
 ## Recommended Books
