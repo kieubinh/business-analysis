@@ -50,7 +50,7 @@ By: Doug Rose, Nov 2016.
 Get an introduction to data science designed for people who aren't planning on being full-time data scientists. Learn the basics of gathering and analyzing big data.
 
   12. [ ] [Managing Data with Microsoft 365]() (1h3m)
-By: Microsoft and Christine Matheney, Aug 2022
+By: Microsoft and Christine Matheney, Aug 2022.
 Learn how to manage data in Microsoft 365 to take on new projects, gather insights, and improve your performance at work.
 
 - [LinkedIn Learning Path](https://www.linkedin.com/learning/paths/develop-your-tableau-skills?u=0) - Develop Your Tableau Skills (5 courses - 16h18m)
